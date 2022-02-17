@@ -1,5 +1,4 @@
 
-# [LIVE VERSION](https://suspicious-kepler-c4615e.netlify.app/)
 
 # Getting Started with Create React App
 
