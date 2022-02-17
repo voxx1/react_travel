@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+.header--text {
+    background: #F55A5A;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.header--text h1 {
+    margin-left: 10px;
+}
+
+.hero--container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.hero--container .hero--container--item img {
+    height: auto;
+    max-width: 250px;
+    border-radius: 5%;
+}
+
+.hero--container--item {
+    margin-top: 30px;
+    display: inline-flex;
+}
+
+.hero--container--item--text {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hero--container--item--text a {
+    color: grey;
+    margin-left: 10px;
+}
+
+.hero--container--item--text h2 {
+    margin-top: 15px;
+    font-size: 30px;
+}
+
+.hero--container--item--text .date {
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.hero--container--item--text .text {
+    margin-top: 5px;
+    font-size: 13px;
+    padding-right: 30px;
+}
